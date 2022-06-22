@@ -1,0 +1,33 @@
+/* Rules for out imported fonts
+   font-family: 'Abel', sans-serif;
+   font-family: 'Anton', sans-serif;
+*/
+
+:root {
+    --primary-color: #F0F0F0;
+    --secondary-color: #E6E6E6;
+    --design-color: #E6563B;
+    --develop-color: #EB9D3A;
+    --support-color: #7CB06C;
+    --host-color: #00ABA9;
+}
+
+body {
+    height: 100vh;
+}
+/* row color */
+div.row {
+    border: 1px dashed blue;
+}
+/* cell color */
+div.row > div {
+    border: 1px solid red;
+}
+div.tall-row {
+    height: 300px;
+}
+
+#logo {
+    height: 105px;
+    width: 105px;
+}
