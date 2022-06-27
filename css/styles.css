@@ -23,11 +23,13 @@ div.row {
 div.row > div {
     border: 1px solid red;
 }
-div.tall-row {
-    height: 300px;
-}
 
 #logo {
     height: 105px;
     width: 105px;
+}
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    font-size: 4vh;
 }
