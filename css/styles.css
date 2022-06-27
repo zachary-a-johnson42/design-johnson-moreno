@@ -80,6 +80,7 @@ h2 {
     background-color: #7CB06C;
     border-radius: 50%;
     margin-right:  50px;
+    margin-left: 50px;
 }
 .host {
     background-color: #00ABA9;
@@ -97,9 +98,6 @@ h5 {
 .support-small {
     background-color: #7CB06C;
     border-radius: 50%;
-}
-.circle-2 {
-    margin-top: 50px;
 }
 .selected {
     margin-top: 75px;
