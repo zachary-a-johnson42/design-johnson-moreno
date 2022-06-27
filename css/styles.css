@@ -126,8 +126,18 @@ h5 {
     font-family: 'Abel', sans-serif;
     margin-bottom: 75px;
 }
-
+div {
+    background: #E6E6E6;
+}
 h3 {
     font-family: 'Anton', sans-serif;
+    font-size: 25px;
     margin-left: 20px;
+}
+.last-tweet {
+    margin-top: 50px;
+}
+.list-item {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
