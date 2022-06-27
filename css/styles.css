@@ -32,7 +32,7 @@ body {
 
 h1 {
     font-family: 'Anton', sans-serif;
-    font-size: 5vh;
+    font-size: 6vh;
 }
 h2 {
     font-family: 'Anton', sans-serif;
@@ -41,6 +41,7 @@ h2 {
 
 .location {
     margin-top: 75px;
+    margin-bottom: 75px;
     }
 
 .circle-div {
@@ -70,7 +71,6 @@ h2 {
 .design {
     background-color: #E6563B;
     border-radius: 50%;
-    margin-right: 50px;
 }
 .develop {
     background-color: #EB9D3A;
@@ -79,8 +79,6 @@ h2 {
 .support {
     background-color: #7CB06C;
     border-radius: 50%;
-    margin-right:  50px;
-    margin-left: 50px;
 }
 .host {
     background-color: #00ABA9;
