@@ -63,10 +63,10 @@ h2 {
 
 .circles-small {
     font-family: 'Anton', sans-serif;
-    height: 50px;
-    width: 50px;
-    font-size: 1.5vh;
-    padding-top: .3vh;
+    height: 16px;
+    width: 16px;
+    font-size: 1.2vh;
+    vertical-align: center;
 }
 
 .design {
@@ -108,3 +108,9 @@ h5 {
 .small-circle-div {
     margin-left: auto;
  }
+.nav-item {
+    font-family: 'Abel', sans-serif;
+}
+.nav-item:nth-child(1) {
+    font-size: 30px;
+}
