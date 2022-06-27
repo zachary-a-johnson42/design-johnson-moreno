@@ -14,15 +14,16 @@
 
 body {
     height: 100vh;
+    background: #E6E6E6;
 }
 /* row color */
-div.row {
-    border: 1px dashed blue;
-}
-/* cell color */
-div.row > div {
-    border: 1px solid red;
-}
+/*div.row {*/
+/*    border: 1px dashed blue;*/
+/*}*/
+/*!* cell color *!*/
+/*div.row > div {*/
+/*    border: 1px solid red;*/
+/*}*/
 
 #logo {
     height: 105px;
@@ -31,20 +32,37 @@ div.row > div {
 
 h1 {
     font-family: 'Anton', sans-serif;
-    font-size: 6vh;
+    font-size: 5vh;
 }
 h2 {
     font-family: 'Anton', sans-serif;
-    font-size: 4vh;
+    font-size: 3vh;
 }
+
+.location {
+    margin-top: 75px;
+    }
+
+.circle-div {
+    margin-top: 75px;
+}
+
 .circles {
     font-family: 'Anton', sans-serif;
     font-size: 2vh;
+    height: 200px;
+    width:200px;
+    padding-top: 30px;
+    border: #F0F0F0;
+    border-width: 8px;
+    border-style: solid;
+    color: #F0F0F0;
 }
 
 .design {
     background-color: #E6563B;
     border-radius: 50%;
+    margin-right: 50px;
 }
 .develop {
     background-color: #EB9D3A;
@@ -53,6 +71,7 @@ h2 {
 .support {
     background-color: #7CB06C;
     border-radius: 50%;
+    margin-right:  50px;
 }
 .host {
     background-color: #00ABA9;
