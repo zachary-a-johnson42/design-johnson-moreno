@@ -48,17 +48,19 @@ h2 {
     margin-top: 75px;
 }
 
+
 .circles {
     font-family: 'Anton', sans-serif;
     font-size: 2vh;
     height: 200px;
     width:200px;
-    padding-top: 50px;
+    padding-top: 70px;
     border: #F0F0F0;
     border-width: 15px;
     border-style: solid;
     color: #F0F0F0;
     margin: 20px;
+    vertical-align: center;
 }
 
 .circles-small {
@@ -126,9 +128,16 @@ h5 {
     font-family: 'Abel', sans-serif;
     margin-bottom: 75px;
 }
+
+.large-pics {
+    height : 40vh;
+}
+
+
 div {
     background: #E6E6E6;
 }
+
 h3 {
     font-family: 'Anton', sans-serif;
     font-size: 25px;
